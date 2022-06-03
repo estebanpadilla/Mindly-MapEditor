@@ -1,0 +1,162 @@
+{
+    "data": {
+        "levels": [
+            {
+                "map": "-McXBn0jztsv1bwyVW-j",
+                "questions": [
+                    {
+                        "type": "text",
+                        "text": "What is the sum of 2 + 1?",
+                        "answers": [
+                            "3",
+                            "4",
+                            "1"
+                        ],
+                        "correctAnswer": 1
+                    },
+                    {
+                        "type": "images",
+                        "text": "What group has 7 triangles?",
+                        "answers": [
+                            {
+                                "image": "triangle",
+                                "quantity": 7
+                            },
+                            {
+                                "image": "circle",
+                                "quantity": 6
+                            },
+                            {
+                                "image": "star",
+                                "quantity": 12
+                            }
+                        ],
+                        "correctAnswer": 1
+                    },
+                    {
+                        "type": "text",
+                        "text": "What is the sum of 2 + 4?",
+                        "answers": [
+                            "5",
+                            "6",
+                            "7"
+                        ],
+                        "correctAnswer": 2
+                    },
+                    {
+                        "type": "text",
+                        "text": "What is the sum of 5 + 5?",
+                        "answers": [
+                            "5",
+                            "10",
+                            "12"
+                        ],
+                        "correctAnswer": 2
+                    },
+                    {
+                        "type": "images",
+                        "text": "What group has 1 circle?",
+                        "answers": [
+                            {
+                                "image": "circle",
+                                "quantity": 3
+                            },
+                            {
+                                "image": "circle",
+                                "quantity": 1
+                            },
+                            {
+                                "image": "star",
+                                "quantity": 2
+                            }
+                        ],
+                        "correctAnswer": 2
+                    },
+                    {
+                        "type": "text",
+                        "text": "What is the sum of 10 + 10?",
+                        "answers": [
+                            "20",
+                            "21",
+                            "22"
+                        ],
+                        "correctAnswer": 1
+                    },
+                    {
+                        "type": "text",
+                        "text": "What is the sum of 11 + 11?",
+                        "answers": [
+                            "23",
+                            "21",
+                            "22"
+                        ],
+                        "correctAnswer": 3
+                    },
+                    {
+                        "type": "images",
+                        "text": "What group has 4 stars?",
+                        "answers": [
+                            {
+                                "image": "star",
+                                "quantity": 12
+                            },
+                            {
+                                "image": "star",
+                                "quantity": 5
+                            },
+                            {
+                                "image": "star",
+                                "quantity": 4
+                            }
+                        ],
+                        "correctAnswer": 3
+                    },
+                    {
+                        "type": "text",
+                        "text": "What is the sum of 25 + 25?",
+                        "answers": [
+                            "50",
+                            "25",
+                            "35"
+                        ],
+                        "correctAnswer": 1
+                    },
+                    {
+                        "type": "text",
+                        "text": "What is the sum of 15 + 15?",
+                        "answers": [
+                            "20",
+                            "30",
+                            "25"
+                        ],
+                        "correctAnswer": 2
+                    }
+                ]
+            },
+            {
+                "map": "-McXJCcdy9Nj0KEGIzgn",
+                "questions": [
+                    {
+                        "type": "images",
+                        "text": "What group has 7 triangles?",
+                        "answers": [
+                            {
+                                "image": "triangle",
+                                "quantity": 7
+                            },
+                            {
+                                "image": "circle",
+                                "quantity": 20
+                            },
+                            {
+                                "image": "star",
+                                "quantity": 16
+                            }
+                        ],
+                        "correctAnswer": 1
+                    }
+                ]
+            }
+        ]
+    }
+}

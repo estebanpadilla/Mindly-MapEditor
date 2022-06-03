@@ -1,0 +1,755 @@
+{
+	"textures": [
+		{
+			"image": "dinoShip.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 994,
+				"h": 1480
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "dinoShip0011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 276,
+						"h": 276
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 30,
+						"w": 276,
+						"h": 210
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 276,
+						"h": 210
+					}
+				},
+				{
+					"filename": "dinoShip0015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 276,
+						"h": 276
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 30,
+						"w": 276,
+						"h": 210
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 276,
+						"h": 210
+					}
+				},
+				{
+					"filename": "dinoShip0010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 276,
+						"h": 276
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 30,
+						"w": 275,
+						"h": 210
+					},
+					"frame": {
+						"x": 279,
+						"y": 1,
+						"w": 275,
+						"h": 210
+					}
+				},
+				{
+					"filename": "dinoShip0014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 276,
+						"h": 276
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 30,
+						"w": 275,
+						"h": 210
+					},
+					"frame": {
+						"x": 279,
+						"y": 1,
+						"w": 275,
+						"h": 210
+					}
+				},
+				{
+					"filename": "dinoShip0012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 276,
+						"h": 276
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 30,
+						"w": 274,
+						"h": 210
+					},
+					"frame": {
+						"x": 556,
+						"y": 1,
+						"w": 274,
+						"h": 210
+					}
+				},
+				{
+					"filename": "dinoShip0016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 276,
+						"h": 276
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 30,
+						"w": 274,
+						"h": 210
+					},
+					"frame": {
+						"x": 556,
+						"y": 1,
+						"w": 274,
+						"h": 210
+					}
+				},
+				{
+					"filename": "dinoShip0013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 276,
+						"h": 276
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 30,
+						"w": 273,
+						"h": 210
+					},
+					"frame": {
+						"x": 1,
+						"y": 213,
+						"w": 273,
+						"h": 210
+					}
+				},
+				{
+					"filename": "dinoShip0017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 276,
+						"h": 276
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 30,
+						"w": 273,
+						"h": 210
+					},
+					"frame": {
+						"x": 1,
+						"y": 213,
+						"w": 273,
+						"h": 210
+					}
+				},
+				{
+					"filename": "dinoShip0023.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 276,
+						"h": 276
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 24,
+						"w": 242,
+						"h": 225
+					},
+					"frame": {
+						"x": 276,
+						"y": 213,
+						"w": 242,
+						"h": 225
+					}
+				},
+				{
+					"filename": "dinoShip0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 276,
+						"h": 276
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 30,
+						"w": 257,
+						"h": 210
+					},
+					"frame": {
+						"x": 1,
+						"y": 425,
+						"w": 257,
+						"h": 210
+					}
+				},
+				{
+					"filename": "dinoShip0005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 276,
+						"h": 276
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 32,
+						"w": 257,
+						"h": 210
+					},
+					"frame": {
+						"x": 1,
+						"y": 425,
+						"w": 257,
+						"h": 210
+					}
+				},
+				{
+					"filename": "dinoShip0008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 276,
+						"h": 276
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 30,
+						"w": 257,
+						"h": 210
+					},
+					"frame": {
+						"x": 1,
+						"y": 425,
+						"w": 257,
+						"h": 210
+					}
+				},
+				{
+					"filename": "dinoShip0003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 276,
+						"h": 276
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 31,
+						"w": 257,
+						"h": 210
+					},
+					"frame": {
+						"x": 520,
+						"y": 213,
+						"w": 257,
+						"h": 210
+					}
+				},
+				{
+					"filename": "dinoShip0007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 276,
+						"h": 276
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 31,
+						"w": 257,
+						"h": 210
+					},
+					"frame": {
+						"x": 520,
+						"y": 213,
+						"w": 257,
+						"h": 210
+					}
+				},
+				{
+					"filename": "dinoShip0020.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 276,
+						"h": 276
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 1,
+						"w": 213,
+						"h": 253
+					},
+					"frame": {
+						"x": 779,
+						"y": 213,
+						"w": 213,
+						"h": 253
+					}
+				},
+				{
+					"filename": "dinoShip0004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 276,
+						"h": 276
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 32,
+						"w": 257,
+						"h": 210
+					},
+					"frame": {
+						"x": 520,
+						"y": 425,
+						"w": 257,
+						"h": 210
+					}
+				},
+				{
+					"filename": "dinoShip0006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 276,
+						"h": 276
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 32,
+						"w": 257,
+						"h": 210
+					},
+					"frame": {
+						"x": 520,
+						"y": 425,
+						"w": 257,
+						"h": 210
+					}
+				},
+				{
+					"filename": "dinoShip0026.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 276,
+						"h": 276
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 21,
+						"w": 209,
+						"h": 255
+					},
+					"frame": {
+						"x": 779,
+						"y": 468,
+						"w": 209,
+						"h": 255
+					}
+				},
+				{
+					"filename": "dinoShip0009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 276,
+						"h": 276
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 30,
+						"w": 257,
+						"h": 210
+					},
+					"frame": {
+						"x": 260,
+						"y": 440,
+						"w": 257,
+						"h": 210
+					}
+				},
+				{
+					"filename": "dinoShip0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 276,
+						"h": 276
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 30,
+						"w": 257,
+						"h": 209
+					},
+					"frame": {
+						"x": 1,
+						"y": 637,
+						"w": 257,
+						"h": 209
+					}
+				},
+				{
+					"filename": "dinoShip0022.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 276,
+						"h": 276
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 39,
+						"w": 258,
+						"h": 206
+					},
+					"frame": {
+						"x": 519,
+						"y": 637,
+						"w": 258,
+						"h": 206
+					}
+				},
+				{
+					"filename": "dinoShip0025.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 276,
+						"h": 276
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 11,
+						"w": 214,
+						"h": 244
+					},
+					"frame": {
+						"x": 779,
+						"y": 725,
+						"w": 214,
+						"h": 244
+					}
+				},
+				{
+					"filename": "dinoShip0018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 276,
+						"h": 276
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 34,
+						"w": 256,
+						"h": 206
+					},
+					"frame": {
+						"x": 260,
+						"y": 652,
+						"w": 256,
+						"h": 206
+					}
+				},
+				{
+					"filename": "dinoShip0029.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 276,
+						"h": 276
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 34,
+						"w": 256,
+						"h": 206
+					},
+					"frame": {
+						"x": 260,
+						"y": 652,
+						"w": 256,
+						"h": 206
+					}
+				},
+				{
+					"filename": "dinoShip0030.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 276,
+						"h": 276
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 34,
+						"w": 255,
+						"h": 206
+					},
+					"frame": {
+						"x": 1,
+						"y": 848,
+						"w": 255,
+						"h": 206
+					}
+				},
+				{
+					"filename": "dinoShip0035.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 276,
+						"h": 276
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 34,
+						"w": 255,
+						"h": 206
+					},
+					"frame": {
+						"x": 1,
+						"y": 848,
+						"w": 255,
+						"h": 206
+					}
+				},
+				{
+					"filename": "dinoShip0031.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 276,
+						"h": 276
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 34,
+						"w": 255,
+						"h": 206
+					},
+					"frame": {
+						"x": 518,
+						"y": 845,
+						"w": 255,
+						"h": 206
+					}
+				},
+				{
+					"filename": "dinoShip0024.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 276,
+						"h": 276
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 10,
+						"w": 218,
+						"h": 226
+					},
+					"frame": {
+						"x": 775,
+						"y": 971,
+						"w": 218,
+						"h": 226
+					}
+				},
+				{
+					"filename": "dinoShip0032.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 276,
+						"h": 276
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 34,
+						"w": 255,
+						"h": 206
+					},
+					"frame": {
+						"x": 258,
+						"y": 860,
+						"w": 255,
+						"h": 206
+					}
+				},
+				{
+					"filename": "dinoShip0033.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 276,
+						"h": 276
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 34,
+						"w": 255,
+						"h": 206
+					},
+					"frame": {
+						"x": 1,
+						"y": 1056,
+						"w": 255,
+						"h": 206
+					}
+				},
+				{
+					"filename": "dinoShip0034.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 276,
+						"h": 276
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 34,
+						"w": 255,
+						"h": 206
+					},
+					"frame": {
+						"x": 515,
+						"y": 1053,
+						"w": 255,
+						"h": 206
+					}
+				},
+				{
+					"filename": "dinoShip0019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 276,
+						"h": 276
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 43,
+						"w": 217,
+						"h": 224
+					},
+					"frame": {
+						"x": 772,
+						"y": 1199,
+						"w": 217,
+						"h": 224
+					}
+				},
+				{
+					"filename": "dinoShip0027.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 276,
+						"h": 276
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 48,
+						"w": 232,
+						"h": 223
+					},
+					"frame": {
+						"x": 258,
+						"y": 1068,
+						"w": 232,
+						"h": 223
+					}
+				},
+				{
+					"filename": "dinoShip0028.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 276,
+						"h": 276
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 33,
+						"w": 226,
+						"h": 215
+					},
+					"frame": {
+						"x": 1,
+						"y": 1264,
+						"w": 226,
+						"h": 215
+					}
+				},
+				{
+					"filename": "dinoShip0021.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 276,
+						"h": 276
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 30,
+						"w": 227,
+						"h": 216
+					},
+					"frame": {
+						"x": 492,
+						"y": 1261,
+						"w": 227,
+						"h": 216
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:eda6a4ba912ebe94094afec741494047:4be34e501d6a124d3f24cf335a83f327:8dd5d2c8d922206a2252f7e34f2b5e97$"
+	}
+}

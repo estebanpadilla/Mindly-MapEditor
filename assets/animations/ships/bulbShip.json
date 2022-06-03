@@ -1,0 +1,755 @@
+{
+	"textures": [
+		{
+			"image": "bulbShip.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1994,
+				"h": 426
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bulbShip0011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 224,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 34,
+						"w": 191,
+						"h": 232
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 191,
+						"h": 232
+					}
+				},
+				{
+					"filename": "bulbShip0015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 224,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 34,
+						"w": 191,
+						"h": 232
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 191,
+						"h": 232
+					}
+				},
+				{
+					"filename": "bulbShip0022.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 224,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 32,
+						"w": 197,
+						"h": 190
+					},
+					"frame": {
+						"x": 1,
+						"y": 235,
+						"w": 197,
+						"h": 190
+					}
+				},
+				{
+					"filename": "bulbShip0010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 224,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 34,
+						"w": 191,
+						"h": 231
+					},
+					"frame": {
+						"x": 194,
+						"y": 1,
+						"w": 191,
+						"h": 231
+					}
+				},
+				{
+					"filename": "bulbShip0014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 224,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 34,
+						"w": 191,
+						"h": 231
+					},
+					"frame": {
+						"x": 194,
+						"y": 1,
+						"w": 191,
+						"h": 231
+					}
+				},
+				{
+					"filename": "bulbShip0026.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 224,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 58,
+						"w": 198,
+						"h": 191
+					},
+					"frame": {
+						"x": 200,
+						"y": 234,
+						"w": 198,
+						"h": 191
+					}
+				},
+				{
+					"filename": "bulbShip0012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 224,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 34,
+						"w": 191,
+						"h": 230
+					},
+					"frame": {
+						"x": 387,
+						"y": 1,
+						"w": 191,
+						"h": 230
+					}
+				},
+				{
+					"filename": "bulbShip0016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 224,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 34,
+						"w": 191,
+						"h": 230
+					},
+					"frame": {
+						"x": 387,
+						"y": 1,
+						"w": 191,
+						"h": 230
+					}
+				},
+				{
+					"filename": "bulbShip0027.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 224,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 51,
+						"w": 198,
+						"h": 191
+					},
+					"frame": {
+						"x": 400,
+						"y": 233,
+						"w": 198,
+						"h": 191
+					}
+				},
+				{
+					"filename": "bulbShip0013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 224,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 34,
+						"w": 191,
+						"h": 229
+					},
+					"frame": {
+						"x": 580,
+						"y": 1,
+						"w": 191,
+						"h": 229
+					}
+				},
+				{
+					"filename": "bulbShip0017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 224,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 34,
+						"w": 191,
+						"h": 229
+					},
+					"frame": {
+						"x": 580,
+						"y": 1,
+						"w": 191,
+						"h": 229
+					}
+				},
+				{
+					"filename": "bulbShip0019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 224,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 36,
+						"w": 183,
+						"h": 193
+					},
+					"frame": {
+						"x": 600,
+						"y": 232,
+						"w": 183,
+						"h": 193
+					}
+				},
+				{
+					"filename": "bulbShip0032.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 224,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 0,
+						"w": 204,
+						"h": 228
+					},
+					"frame": {
+						"x": 773,
+						"y": 1,
+						"w": 204,
+						"h": 228
+					}
+				},
+				{
+					"filename": "bulbShip0020.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 224,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 57,
+						"w": 193,
+						"h": 191
+					},
+					"frame": {
+						"x": 785,
+						"y": 231,
+						"w": 193,
+						"h": 191
+					}
+				},
+				{
+					"filename": "bulbShip0031.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 224,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 8,
+						"w": 204,
+						"h": 220
+					},
+					"frame": {
+						"x": 979,
+						"y": 1,
+						"w": 204,
+						"h": 220
+					}
+				},
+				{
+					"filename": "bulbShip0033.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 224,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 8,
+						"w": 204,
+						"h": 220
+					},
+					"frame": {
+						"x": 979,
+						"y": 1,
+						"w": 204,
+						"h": 220
+					}
+				},
+				{
+					"filename": "bulbShip0035.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 224,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 27,
+						"w": 204,
+						"h": 201
+					},
+					"frame": {
+						"x": 980,
+						"y": 223,
+						"w": 204,
+						"h": 201
+					}
+				},
+				{
+					"filename": "bulbShip0030.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 224,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 19,
+						"w": 204,
+						"h": 209
+					},
+					"frame": {
+						"x": 1185,
+						"y": 1,
+						"w": 204,
+						"h": 209
+					}
+				},
+				{
+					"filename": "bulbShip0034.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 224,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 19,
+						"w": 204,
+						"h": 209
+					},
+					"frame": {
+						"x": 1185,
+						"y": 1,
+						"w": 204,
+						"h": 209
+					}
+				},
+				{
+					"filename": "bulbShip0025.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 224,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 34,
+						"w": 202,
+						"h": 205
+					},
+					"frame": {
+						"x": 1186,
+						"y": 212,
+						"w": 202,
+						"h": 205
+					}
+				},
+				{
+					"filename": "bulbShip0021.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 224,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 31,
+						"w": 200,
+						"h": 204
+					},
+					"frame": {
+						"x": 1390,
+						"y": 212,
+						"w": 200,
+						"h": 204
+					}
+				},
+				{
+					"filename": "bulbShip0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 224,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 28,
+						"w": 204,
+						"h": 200
+					},
+					"frame": {
+						"x": 1391,
+						"y": 1,
+						"w": 204,
+						"h": 200
+					}
+				},
+				{
+					"filename": "bulbShip0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 224,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 29,
+						"w": 204,
+						"h": 200
+					},
+					"frame": {
+						"x": 1391,
+						"y": 1,
+						"w": 204,
+						"h": 200
+					}
+				},
+				{
+					"filename": "bulbShip0003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 224,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 31,
+						"w": 204,
+						"h": 200
+					},
+					"frame": {
+						"x": 1391,
+						"y": 1,
+						"w": 204,
+						"h": 200
+					}
+				},
+				{
+					"filename": "bulbShip0004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 224,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 33,
+						"w": 204,
+						"h": 200
+					},
+					"frame": {
+						"x": 1391,
+						"y": 1,
+						"w": 204,
+						"h": 200
+					}
+				},
+				{
+					"filename": "bulbShip0005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 224,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 34,
+						"w": 204,
+						"h": 200
+					},
+					"frame": {
+						"x": 1391,
+						"y": 1,
+						"w": 204,
+						"h": 200
+					}
+				},
+				{
+					"filename": "bulbShip0006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 224,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 33,
+						"w": 204,
+						"h": 200
+					},
+					"frame": {
+						"x": 1391,
+						"y": 1,
+						"w": 204,
+						"h": 200
+					}
+				},
+				{
+					"filename": "bulbShip0007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 224,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 31,
+						"w": 204,
+						"h": 200
+					},
+					"frame": {
+						"x": 1391,
+						"y": 1,
+						"w": 204,
+						"h": 200
+					}
+				},
+				{
+					"filename": "bulbShip0008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 224,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 29,
+						"w": 204,
+						"h": 200
+					},
+					"frame": {
+						"x": 1391,
+						"y": 1,
+						"w": 204,
+						"h": 200
+					}
+				},
+				{
+					"filename": "bulbShip0009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 224,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 28,
+						"w": 204,
+						"h": 200
+					},
+					"frame": {
+						"x": 1391,
+						"y": 1,
+						"w": 204,
+						"h": 200
+					}
+				},
+				{
+					"filename": "bulbShip0018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 224,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 28,
+						"w": 204,
+						"h": 200
+					},
+					"frame": {
+						"x": 1592,
+						"y": 203,
+						"w": 204,
+						"h": 200
+					}
+				},
+				{
+					"filename": "bulbShip0029.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 224,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 28,
+						"w": 204,
+						"h": 200
+					},
+					"frame": {
+						"x": 1592,
+						"y": 203,
+						"w": 204,
+						"h": 200
+					}
+				},
+				{
+					"filename": "bulbShip0023.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 224,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 44,
+						"w": 204,
+						"h": 200
+					},
+					"frame": {
+						"x": 1597,
+						"y": 1,
+						"w": 204,
+						"h": 200
+					}
+				},
+				{
+					"filename": "bulbShip0028.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 224,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 36,
+						"w": 190,
+						"h": 196
+					},
+					"frame": {
+						"x": 1803,
+						"y": 1,
+						"w": 190,
+						"h": 196
+					}
+				},
+				{
+					"filename": "bulbShip0024.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 224,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 31,
+						"w": 191,
+						"h": 199
+					},
+					"frame": {
+						"x": 1798,
+						"y": 203,
+						"w": 191,
+						"h": 199
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:e8bef344e16858ab49e84d1c26bc8b25:e9fac9bd9093338bb703fff689d38c9f:b00c0c95b874f05c306eb19be61e9b34$"
+	}
+}

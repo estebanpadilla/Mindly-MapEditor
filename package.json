@@ -1,0 +1,27 @@
+{
+    "name": "race",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "webpack-dev-server",
+        "build": "webpack -p"
+    },
+    "author": "mindly",
+    "license": "MIT",
+    "dependencies": {
+        "phaser": "^3.55.2"
+    },
+    "devDependencies": {
+        "firebase": "^8.6.7",
+        "css-loader": "*",
+        "easystarjs": "^0.4.4",
+        "firebase-key": "^2.0.0",
+        "html-loader": "*",
+        "style-loader": "*",
+        "webpack": "*",
+        "webpack-cli": "*",
+        "webpack-dev-server": "*"
+    }
+}

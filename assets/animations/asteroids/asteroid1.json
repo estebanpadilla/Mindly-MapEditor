@@ -1,0 +1,377 @@
+{
+	"textures": [
+		{
+			"image": "asteroid1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1339,
+				"h": 503
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "asteroid10014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 304
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 336,
+						"h": 296
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 336,
+						"h": 296
+					}
+				},
+				{
+					"filename": "asteroid10017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 304
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 1,
+						"y": 299,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "asteroid10016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 304
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 0,
+						"w": 305,
+						"h": 272
+					},
+					"frame": {
+						"x": 339,
+						"y": 1,
+						"w": 305,
+						"h": 272
+					}
+				},
+				{
+					"filename": "asteroid10001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 304
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 35,
+						"w": 240,
+						"h": 227
+					},
+					"frame": {
+						"x": 339,
+						"y": 275,
+						"w": 240,
+						"h": 227
+					}
+				},
+				{
+					"filename": "asteroid10002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 304
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 35,
+						"w": 240,
+						"h": 227
+					},
+					"frame": {
+						"x": 339,
+						"y": 275,
+						"w": 240,
+						"h": 227
+					}
+				},
+				{
+					"filename": "asteroid10003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 304
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 35,
+						"w": 240,
+						"h": 227
+					},
+					"frame": {
+						"x": 339,
+						"y": 275,
+						"w": 240,
+						"h": 227
+					}
+				},
+				{
+					"filename": "asteroid10004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 304
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 35,
+						"w": 240,
+						"h": 227
+					},
+					"frame": {
+						"x": 339,
+						"y": 275,
+						"w": 240,
+						"h": 227
+					}
+				},
+				{
+					"filename": "asteroid10005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 304
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 35,
+						"w": 240,
+						"h": 227
+					},
+					"frame": {
+						"x": 339,
+						"y": 275,
+						"w": 240,
+						"h": 227
+					}
+				},
+				{
+					"filename": "asteroid10006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 304
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 35,
+						"w": 240,
+						"h": 227
+					},
+					"frame": {
+						"x": 339,
+						"y": 275,
+						"w": 240,
+						"h": 227
+					}
+				},
+				{
+					"filename": "asteroid10007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 304
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 35,
+						"w": 240,
+						"h": 227
+					},
+					"frame": {
+						"x": 339,
+						"y": 275,
+						"w": 240,
+						"h": 227
+					}
+				},
+				{
+					"filename": "asteroid10008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 304
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 35,
+						"w": 240,
+						"h": 227
+					},
+					"frame": {
+						"x": 339,
+						"y": 275,
+						"w": 240,
+						"h": 227
+					}
+				},
+				{
+					"filename": "asteroid10009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 304
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 35,
+						"w": 240,
+						"h": 227
+					},
+					"frame": {
+						"x": 339,
+						"y": 275,
+						"w": 240,
+						"h": 227
+					}
+				},
+				{
+					"filename": "asteroid10011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 304
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 47,
+						"w": 257,
+						"h": 219
+					},
+					"frame": {
+						"x": 581,
+						"y": 275,
+						"w": 257,
+						"h": 219
+					}
+				},
+				{
+					"filename": "asteroid10013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 304
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 16,
+						"w": 312,
+						"h": 267
+					},
+					"frame": {
+						"x": 646,
+						"y": 1,
+						"w": 312,
+						"h": 267
+					}
+				},
+				{
+					"filename": "asteroid10010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 304
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 46,
+						"w": 239,
+						"h": 217
+					},
+					"frame": {
+						"x": 840,
+						"y": 270,
+						"w": 239,
+						"h": 217
+					}
+				},
+				{
+					"filename": "asteroid10012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 304
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 32,
+						"w": 313,
+						"h": 251
+					},
+					"frame": {
+						"x": 960,
+						"y": 1,
+						"w": 313,
+						"h": 251
+					}
+				},
+				{
+					"filename": "asteroid10015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 304
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 22,
+						"w": 257,
+						"h": 244
+					},
+					"frame": {
+						"x": 1081,
+						"y": 254,
+						"w": 257,
+						"h": 244
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:ccb1a3a8606724cf1ca41be0cc6c89e1:031f77ed67e4e7a369f7b9e8ff802780:c1f1049cf9f2d71e6a9f2d78c41792c4$"
+	}
+}

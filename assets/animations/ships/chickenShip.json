@@ -1,0 +1,755 @@
+{
+	"textures": [
+		{
+			"image": "chickenShip.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 997,
+				"h": 709
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "chickenShip0022.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 221,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 30,
+						"w": 190,
+						"h": 141
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 190,
+						"h": 141
+					}
+				},
+				{
+					"filename": "chickenShip0029.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 221,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 37,
+						"w": 196,
+						"h": 148
+					},
+					"frame": {
+						"x": 193,
+						"y": 1,
+						"w": 196,
+						"h": 148
+					}
+				},
+				{
+					"filename": "chickenShip0032.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 221,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 28,
+						"w": 190,
+						"h": 157
+					},
+					"frame": {
+						"x": 391,
+						"y": 1,
+						"w": 190,
+						"h": 157
+					}
+				},
+				{
+					"filename": "chickenShip0033.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 221,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 28,
+						"w": 190,
+						"h": 157
+					},
+					"frame": {
+						"x": 583,
+						"y": 1,
+						"w": 190,
+						"h": 157
+					}
+				},
+				{
+					"filename": "chickenShip0035.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 221,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 28,
+						"w": 190,
+						"h": 157
+					},
+					"frame": {
+						"x": 583,
+						"y": 1,
+						"w": 190,
+						"h": 157
+					}
+				},
+				{
+					"filename": "chickenShip0034.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 221,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 28,
+						"w": 188,
+						"h": 157
+					},
+					"frame": {
+						"x": 775,
+						"y": 1,
+						"w": 188,
+						"h": 157
+					}
+				},
+				{
+					"filename": "chickenShip0031.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 221,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 42,
+						"w": 188,
+						"h": 160
+					},
+					"frame": {
+						"x": 1,
+						"y": 144,
+						"w": 188,
+						"h": 160
+					}
+				},
+				{
+					"filename": "chickenShip0028.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 221,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 32,
+						"w": 195,
+						"h": 162
+					},
+					"frame": {
+						"x": 191,
+						"y": 151,
+						"w": 195,
+						"h": 162
+					}
+				},
+				{
+					"filename": "chickenShip0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 221,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 37,
+						"w": 191,
+						"h": 169
+					},
+					"frame": {
+						"x": 388,
+						"y": 160,
+						"w": 191,
+						"h": 169
+					}
+				},
+				{
+					"filename": "chickenShip0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 221,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 38,
+						"w": 191,
+						"h": 169
+					},
+					"frame": {
+						"x": 388,
+						"y": 160,
+						"w": 191,
+						"h": 169
+					}
+				},
+				{
+					"filename": "chickenShip0003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 221,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 38,
+						"w": 191,
+						"h": 169
+					},
+					"frame": {
+						"x": 388,
+						"y": 160,
+						"w": 191,
+						"h": 169
+					}
+				},
+				{
+					"filename": "chickenShip0004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 221,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 39,
+						"w": 191,
+						"h": 169
+					},
+					"frame": {
+						"x": 388,
+						"y": 160,
+						"w": 191,
+						"h": 169
+					}
+				},
+				{
+					"filename": "chickenShip0005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 221,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 40,
+						"w": 191,
+						"h": 169
+					},
+					"frame": {
+						"x": 388,
+						"y": 160,
+						"w": 191,
+						"h": 169
+					}
+				},
+				{
+					"filename": "chickenShip0006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 221,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 39,
+						"w": 191,
+						"h": 169
+					},
+					"frame": {
+						"x": 388,
+						"y": 160,
+						"w": 191,
+						"h": 169
+					}
+				},
+				{
+					"filename": "chickenShip0007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 221,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 38,
+						"w": 191,
+						"h": 169
+					},
+					"frame": {
+						"x": 388,
+						"y": 160,
+						"w": 191,
+						"h": 169
+					}
+				},
+				{
+					"filename": "chickenShip0008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 221,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 38,
+						"w": 191,
+						"h": 169
+					},
+					"frame": {
+						"x": 388,
+						"y": 160,
+						"w": 191,
+						"h": 169
+					}
+				},
+				{
+					"filename": "chickenShip0009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 221,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 37,
+						"w": 191,
+						"h": 169
+					},
+					"frame": {
+						"x": 388,
+						"y": 160,
+						"w": 191,
+						"h": 169
+					}
+				},
+				{
+					"filename": "chickenShip0030.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 221,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 37,
+						"w": 191,
+						"h": 169
+					},
+					"frame": {
+						"x": 388,
+						"y": 160,
+						"w": 191,
+						"h": 169
+					}
+				},
+				{
+					"filename": "chickenShip0010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 221,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 37,
+						"w": 193,
+						"h": 169
+					},
+					"frame": {
+						"x": 581,
+						"y": 160,
+						"w": 193,
+						"h": 169
+					}
+				},
+				{
+					"filename": "chickenShip0014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 221,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 37,
+						"w": 193,
+						"h": 169
+					},
+					"frame": {
+						"x": 581,
+						"y": 160,
+						"w": 193,
+						"h": 169
+					}
+				},
+				{
+					"filename": "chickenShip0011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 221,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 37,
+						"w": 195,
+						"h": 169
+					},
+					"frame": {
+						"x": 776,
+						"y": 160,
+						"w": 195,
+						"h": 169
+					}
+				},
+				{
+					"filename": "chickenShip0015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 221,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 37,
+						"w": 195,
+						"h": 169
+					},
+					"frame": {
+						"x": 776,
+						"y": 160,
+						"w": 195,
+						"h": 169
+					}
+				},
+				{
+					"filename": "chickenShip0023.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 221,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 20,
+						"w": 182,
+						"h": 175
+					},
+					"frame": {
+						"x": 1,
+						"y": 306,
+						"w": 182,
+						"h": 175
+					}
+				},
+				{
+					"filename": "chickenShip0012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 221,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 37,
+						"w": 191,
+						"h": 169
+					},
+					"frame": {
+						"x": 185,
+						"y": 315,
+						"w": 191,
+						"h": 169
+					}
+				},
+				{
+					"filename": "chickenShip0016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 221,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 37,
+						"w": 191,
+						"h": 169
+					},
+					"frame": {
+						"x": 185,
+						"y": 315,
+						"w": 191,
+						"h": 169
+					}
+				},
+				{
+					"filename": "chickenShip0013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 221,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 37,
+						"w": 191,
+						"h": 169
+					},
+					"frame": {
+						"x": 378,
+						"y": 331,
+						"w": 191,
+						"h": 169
+					}
+				},
+				{
+					"filename": "chickenShip0017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 221,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 37,
+						"w": 191,
+						"h": 169
+					},
+					"frame": {
+						"x": 378,
+						"y": 331,
+						"w": 191,
+						"h": 169
+					}
+				},
+				{
+					"filename": "chickenShip0027.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 221,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 28,
+						"w": 190,
+						"h": 173
+					},
+					"frame": {
+						"x": 571,
+						"y": 331,
+						"w": 190,
+						"h": 173
+					}
+				},
+				{
+					"filename": "chickenShip0025.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 221,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 28,
+						"w": 169,
+						"h": 181
+					},
+					"frame": {
+						"x": 763,
+						"y": 331,
+						"w": 169,
+						"h": 181
+					}
+				},
+				{
+					"filename": "chickenShip0026.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 221,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 26,
+						"w": 181,
+						"h": 181
+					},
+					"frame": {
+						"x": 1,
+						"y": 483,
+						"w": 181,
+						"h": 181
+					}
+				},
+				{
+					"filename": "chickenShip0021.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 221,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 0,
+						"w": 179,
+						"h": 182
+					},
+					"frame": {
+						"x": 184,
+						"y": 486,
+						"w": 179,
+						"h": 182
+					}
+				},
+				{
+					"filename": "chickenShip0020.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 221,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 7,
+						"w": 157,
+						"h": 185
+					},
+					"frame": {
+						"x": 365,
+						"y": 502,
+						"w": 157,
+						"h": 185
+					}
+				},
+				{
+					"filename": "chickenShip0018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 221,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 23,
+						"w": 179,
+						"h": 186
+					},
+					"frame": {
+						"x": 524,
+						"y": 506,
+						"w": 179,
+						"h": 186
+					}
+				},
+				{
+					"filename": "chickenShip0019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 221,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 15,
+						"w": 147,
+						"h": 194
+					},
+					"frame": {
+						"x": 705,
+						"y": 514,
+						"w": 147,
+						"h": 194
+					}
+				},
+				{
+					"filename": "chickenShip0024.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 221,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 8,
+						"w": 142,
+						"h": 194
+					},
+					"frame": {
+						"x": 854,
+						"y": 514,
+						"w": 142,
+						"h": 194
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:16c072d8daee56f99c2e7d700ca6e08e:4edd04940468f16debda0885e1d92824:1a7b2bd3e005c17bd4068efe5458cd6e$"
+	}
+}

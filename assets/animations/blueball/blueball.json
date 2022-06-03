@@ -1,0 +1,146 @@
+{
+	"textures": [
+		{
+			"image": "blueball.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 57,
+				"h": 281
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "blueball0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 132,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 13,
+						"w": 55,
+						"h": 55
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 55,
+						"h": 55
+					}
+				},
+				{
+					"filename": "blueball0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 132,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 19,
+						"w": 55,
+						"h": 55
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 55,
+						"h": 55
+					}
+				},
+				{
+					"filename": "blueball0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 132,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 0,
+						"w": 55,
+						"h": 54
+					},
+					"frame": {
+						"x": 1,
+						"y": 58,
+						"w": 55,
+						"h": 54
+					}
+				},
+				{
+					"filename": "blueball0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 132,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 55,
+						"y": 48,
+						"w": 55,
+						"h": 54
+					},
+					"frame": {
+						"x": 1,
+						"y": 114,
+						"w": 55,
+						"h": 54
+					}
+				},
+				{
+					"filename": "blueball0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 132,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 48,
+						"w": 54,
+						"h": 54
+					},
+					"frame": {
+						"x": 1,
+						"y": 170,
+						"w": 54,
+						"h": 54
+					}
+				},
+				{
+					"filename": "blueball0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 132,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 78,
+						"y": 48,
+						"w": 54,
+						"h": 54
+					},
+					"frame": {
+						"x": 1,
+						"y": 226,
+						"w": 54,
+						"h": 54
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:5ef5f0ed8d1ab09211bb4977927999cd:4d2661b189b7cfcf9c1c9bf626f51114:f8cc40754126f4b899c4a9154b0ead05$"
+	}
+}

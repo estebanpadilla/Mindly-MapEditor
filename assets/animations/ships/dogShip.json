@@ -1,0 +1,755 @@
+{
+	"textures": [
+		{
+			"image": "dogShip.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1400,
+				"h": 937
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "dogShip0023.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 283,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 4,
+						"w": 221,
+						"h": 242
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 221,
+						"h": 242
+					}
+				},
+				{
+					"filename": "dogShip0018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 283,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 51,
+						"y": 30,
+						"w": 218,
+						"h": 236
+					},
+					"frame": {
+						"x": 1,
+						"y": 245,
+						"w": 218,
+						"h": 236
+					}
+				},
+				{
+					"filename": "dogShip0011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 283,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 15,
+						"w": 272,
+						"h": 234
+					},
+					"frame": {
+						"x": 1,
+						"y": 483,
+						"w": 272,
+						"h": 234
+					}
+				},
+				{
+					"filename": "dogShip0015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 283,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 15,
+						"w": 272,
+						"h": 234
+					},
+					"frame": {
+						"x": 1,
+						"y": 483,
+						"w": 272,
+						"h": 234
+					}
+				},
+				{
+					"filename": "dogShip0025.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 283,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 55,
+						"y": 12,
+						"w": 212,
+						"h": 217
+					},
+					"frame": {
+						"x": 1,
+						"y": 719,
+						"w": 212,
+						"h": 217
+					}
+				},
+				{
+					"filename": "dogShip0020.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 283,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 40,
+						"y": 9,
+						"w": 243,
+						"h": 216
+					},
+					"frame": {
+						"x": 215,
+						"y": 719,
+						"w": 243,
+						"h": 216
+					}
+				},
+				{
+					"filename": "dogShip0010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 283,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 15,
+						"w": 271,
+						"h": 234
+					},
+					"frame": {
+						"x": 221,
+						"y": 245,
+						"w": 271,
+						"h": 234
+					}
+				},
+				{
+					"filename": "dogShip0014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 283,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 15,
+						"w": 271,
+						"h": 234
+					},
+					"frame": {
+						"x": 221,
+						"y": 245,
+						"w": 271,
+						"h": 234
+					}
+				},
+				{
+					"filename": "dogShip0012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 283,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 15,
+						"w": 269,
+						"h": 234
+					},
+					"frame": {
+						"x": 275,
+						"y": 481,
+						"w": 269,
+						"h": 234
+					}
+				},
+				{
+					"filename": "dogShip0016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 283,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 15,
+						"w": 269,
+						"h": 234
+					},
+					"frame": {
+						"x": 275,
+						"y": 481,
+						"w": 269,
+						"h": 234
+					}
+				},
+				{
+					"filename": "dogShip0027.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 283,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 37,
+						"w": 241,
+						"h": 216
+					},
+					"frame": {
+						"x": 460,
+						"y": 717,
+						"w": 241,
+						"h": 216
+					}
+				},
+				{
+					"filename": "dogShip0013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 283,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 15,
+						"w": 268,
+						"h": 234
+					},
+					"frame": {
+						"x": 224,
+						"y": 1,
+						"w": 268,
+						"h": 234
+					}
+				},
+				{
+					"filename": "dogShip0017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 283,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 15,
+						"w": 268,
+						"h": 234
+					},
+					"frame": {
+						"x": 224,
+						"y": 1,
+						"w": 268,
+						"h": 234
+					}
+				},
+				{
+					"filename": "dogShip0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 283,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 15,
+						"w": 226,
+						"h": 234
+					},
+					"frame": {
+						"x": 494,
+						"y": 1,
+						"w": 226,
+						"h": 234
+					}
+				},
+				{
+					"filename": "dogShip0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 283,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 16,
+						"w": 226,
+						"h": 234
+					},
+					"frame": {
+						"x": 494,
+						"y": 1,
+						"w": 226,
+						"h": 234
+					}
+				},
+				{
+					"filename": "dogShip0003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 283,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 17,
+						"w": 226,
+						"h": 234
+					},
+					"frame": {
+						"x": 494,
+						"y": 1,
+						"w": 226,
+						"h": 234
+					}
+				},
+				{
+					"filename": "dogShip0004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 283,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 17,
+						"w": 226,
+						"h": 234
+					},
+					"frame": {
+						"x": 494,
+						"y": 1,
+						"w": 226,
+						"h": 234
+					}
+				},
+				{
+					"filename": "dogShip0005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 283,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 18,
+						"w": 226,
+						"h": 234
+					},
+					"frame": {
+						"x": 494,
+						"y": 1,
+						"w": 226,
+						"h": 234
+					}
+				},
+				{
+					"filename": "dogShip0006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 283,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 17,
+						"w": 226,
+						"h": 234
+					},
+					"frame": {
+						"x": 494,
+						"y": 1,
+						"w": 226,
+						"h": 234
+					}
+				},
+				{
+					"filename": "dogShip0007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 283,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 17,
+						"w": 226,
+						"h": 234
+					},
+					"frame": {
+						"x": 494,
+						"y": 1,
+						"w": 226,
+						"h": 234
+					}
+				},
+				{
+					"filename": "dogShip0008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 283,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 16,
+						"w": 226,
+						"h": 234
+					},
+					"frame": {
+						"x": 494,
+						"y": 1,
+						"w": 226,
+						"h": 234
+					}
+				},
+				{
+					"filename": "dogShip0009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 283,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 15,
+						"w": 226,
+						"h": 234
+					},
+					"frame": {
+						"x": 494,
+						"y": 1,
+						"w": 226,
+						"h": 234
+					}
+				},
+				{
+					"filename": "dogShip0029.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 283,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 15,
+						"w": 226,
+						"h": 234
+					},
+					"frame": {
+						"x": 494,
+						"y": 237,
+						"w": 226,
+						"h": 234
+					}
+				},
+				{
+					"filename": "dogShip0030.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 283,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 15,
+						"w": 226,
+						"h": 234
+					},
+					"frame": {
+						"x": 546,
+						"y": 473,
+						"w": 226,
+						"h": 234
+					}
+				},
+				{
+					"filename": "dogShip0026.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 283,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 29,
+						"w": 239,
+						"h": 227
+					},
+					"frame": {
+						"x": 703,
+						"y": 709,
+						"w": 239,
+						"h": 227
+					}
+				},
+				{
+					"filename": "dogShip0022.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 283,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 24,
+						"w": 227,
+						"h": 228
+					},
+					"frame": {
+						"x": 944,
+						"y": 1,
+						"w": 227,
+						"h": 228
+					}
+				},
+				{
+					"filename": "dogShip0031.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 283,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 15,
+						"w": 226,
+						"h": 234
+					},
+					"frame": {
+						"x": 1173,
+						"y": 1,
+						"w": 226,
+						"h": 234
+					}
+				},
+				{
+					"filename": "dogShip0032.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 283,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 15,
+						"w": 226,
+						"h": 234
+					},
+					"frame": {
+						"x": 722,
+						"y": 237,
+						"w": 226,
+						"h": 234
+					}
+				},
+				{
+					"filename": "dogShip0033.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 283,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 15,
+						"w": 226,
+						"h": 234
+					},
+					"frame": {
+						"x": 774,
+						"y": 473,
+						"w": 226,
+						"h": 234
+					}
+				},
+				{
+					"filename": "dogShip0034.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 283,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 15,
+						"w": 226,
+						"h": 234
+					},
+					"frame": {
+						"x": 950,
+						"y": 237,
+						"w": 226,
+						"h": 234
+					}
+				},
+				{
+					"filename": "dogShip0024.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 283,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 1,
+						"w": 218,
+						"h": 232
+					},
+					"frame": {
+						"x": 722,
+						"y": 1,
+						"w": 218,
+						"h": 232
+					}
+				},
+				{
+					"filename": "dogShip0019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 283,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 26,
+						"w": 218,
+						"h": 225
+					},
+					"frame": {
+						"x": 944,
+						"y": 709,
+						"w": 218,
+						"h": 225
+					}
+				},
+				{
+					"filename": "dogShip0035.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 283,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 15,
+						"w": 226,
+						"h": 234
+					},
+					"frame": {
+						"x": 1002,
+						"y": 473,
+						"w": 226,
+						"h": 234
+					}
+				},
+				{
+					"filename": "dogShip0028.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 283,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 19,
+						"w": 212,
+						"h": 214
+					},
+					"frame": {
+						"x": 1178,
+						"y": 237,
+						"w": 212,
+						"h": 214
+					}
+				},
+				{
+					"filename": "dogShip0021.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 283,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 33,
+						"w": 209,
+						"h": 214
+					},
+					"frame": {
+						"x": 1164,
+						"y": 709,
+						"w": 209,
+						"h": 214
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:4a13784efeb3518719e58bf9fc318820:717e1cb1a985eedfa21f836a8836076a:eed2a3bb2aa21334ee3a2af807cc1f1f$"
+	}
+}
