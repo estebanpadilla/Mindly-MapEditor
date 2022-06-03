@@ -22,7 +22,6 @@ export class MapEditor extends Scene {
         this.load.image('mapEditorShip', 'assets/images/ships/ship1.png');
 
         this.load.image('ringPlanet', 'assets/images/ringPlanet.png');
-
         this.load.image('blueAsteroid', 'assets/images/blueAsteroid.png');
         this.load.image('greenPlanet', 'assets/images/greenPlanet.png');
         this.load.image('largeAsteroid', 'assets/images/largeAsteroid.png');
@@ -30,12 +29,6 @@ export class MapEditor extends Scene {
         this.load.image('orangePlanet', 'assets/images/orangePlanet.png');
         this.load.image('ringPlanet', 'assets/images/ringPlanet.png');
         this.load.image('finishLine', 'assets/images/finishLine.png');
-        // this.load.image('asteroidL1', 'assets/images/asteroidL1.png');
-        // this.load.image('asteroidM1', 'assets/images/asteroidM1.png');
-        // this.load.image('asteroidS1', 'assets/images/asteroidS1.png');
-
-        // this.load.image('ship2', 'assets/images/ships/ship2.png');
-        // this.load.image('ship3', 'assets/images/ships/ship3.png');
 
         if (this.container === null) {
             this.container = div({ 'className': 'mapEditor_container' }, document.body);
